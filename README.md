@@ -1,8 +1,8 @@
-# Oie, eu sou a Dani!
+# Oi, eu sou a Dani! 👋
 
-Sou especialista em Direito Tributário atualmente imersa no mundo dos códigos e algoritmos. Depois de dedicar anos ao universo jurídico e tributário, descobri uma nova paixão: a programação. Meu objetivo é me consolidar como uma desenvolvedora front-end,  criando interfaces funcionais que proporcionem experiências incríveis para os usuários.
+Transitei do Direito Tributário para o Desenvolvimento Front-End, trazendo minha paixão por resolver problemas para o mundo da tecnologia. Meu objetivo é criar interfaces funcionais e intuitivas que melhorem a experiência do usuário. Com experiência em HTML, CSS, JavaScript e React, estou sempre aprendendo e evoluindo.
 
-Com um pé no presente e os olhos no futuro, estou pronta para enfrentar os desafios que surgirem no caminho!
+Além de projetos próprios, sou Embaixadora do Cloud Girls, onde promovo o empoderamento feminino na tecnologia. Pronta para novos desafios e disposta a crescer como desenvolvedora!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
