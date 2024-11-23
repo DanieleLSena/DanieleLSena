@@ -1,6 +1,6 @@
 # Oi, eu sou a Dani! 👋
 
-Transitei do Direito Tributário para o Desenvolvimento Front-End, trazendo minha paixão por resolver problemas para o mundo da tecnologia. Meu objetivo é criar interfaces funcionais e intuitivas que melhorem a experiência do usuário. Com experiência em HTML, CSS, JavaScript e React, estou sempre aprendendo e evoluindo.
+Transitei do Direito Tributário para a área de tecnologia, com foco em análise de dados e desenvolvimento de soluções eficientes, trazendo minha paixão por resolver problemas para o mundo da tecnologia. Meu objetivo é criar interfaces funcionais e intuitivas que melhorem a experiência do usuário, além de gerar insights valiosos a partir de dados. Com experiência em HTML, CSS, JavaScript, React e Python, estou constantemente aprendendo e evoluindo, buscando unir design e dados para impactar positivamente os projetos em que atuo.
 
 Além de projetos próprios, sou Embaixadora do Cloud Girls, onde promovo o empoderamento feminino na tecnologia. Pronta para novos desafios e disposta a crescer como desenvolvedora!
 
